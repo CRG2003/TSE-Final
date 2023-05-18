@@ -4,5 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HUD.unity
+    guid: 8be4cbd5e1ae6a546a0209fb1b4043c6
+  - enabled: 1
+    path: Assets/TSE Project Tower Defence level designs/TSE Project Tower Defence
+      level designs/TSE Project Tower Defence Final Level.unity
+    guid: 8506908401a8e224fb4715ff54f68b6c
   m_configObjects: {}

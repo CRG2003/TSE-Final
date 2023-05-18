@@ -78,10 +78,10 @@ public class towerControl : MonoBehaviour
             GameObject ob = child.gameObject;
             locals.Add(ob);
         }
-        //sound.clip = mus;
-        //sound.loop = true;
-        //sound.volume = mv / 100;
-        //sound.Play();
+        sound.clip = mus;
+        sound.loop = true;
+        sound.volume = mv / 100;
+        sound.Play();
     }
 
 
